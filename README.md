@@ -1,4 +1,4 @@
-  TRANSMUTATION REGISTRY
+  Transmutation Registry
   
   ![coverTrans](https://github.com/leniero/transmutationRegistry/assets/67974866/60838ad1-7f19-4254-8cf2-991036cf52d8)
 
