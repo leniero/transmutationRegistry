@@ -1,5 +1,6 @@
   Transmutation Registry
-  
+  ![coverTrans](https://github.com/leniero/transmutationRegistry/assets/67974866/60838ad1-7f19-4254-8cf2-991036cf52d8)
+
   Introduction
 
 "Transmutation Registry" is a speculative art project exploring the aftermath of a pandemic where a pathogen causes rapid human mutations. It critiques media and healthcare narratives on mental health and reflects on themes of alienation, queerness, and HIV.
